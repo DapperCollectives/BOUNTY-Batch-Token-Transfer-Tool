@@ -4,12 +4,12 @@
 
 # Milestone Status
 
-| Phase         | Status        | Team            |
-| ------------- | ------------- |-----------------|
-| One           | COMPLETE      |   FlowJP        | 
-| Two           | Incomplete    |   N/A           | 
-| Three         | Incomplete    |   N/A           | 
-| Four          | Incomplete    |   N/A           | 
+| Phase | Status     | Team   | Milestone start date | Milestone due date | Milestone met date |
+|-------|------------|--------|----------------------|--------------------|--------------------|
+| One   | COMPLETE   | FlowJP | Mar 30               | Apr 22             | Apr 22             |
+| Two   | Incomplete |        |                      |                    |                    |
+| Three | Incomplete |        |                      |                    |                    |
+| Four  | Incomplete |        |                      |                    |                    |
 
 # Milestone Phases
 1. Product Requirements Documentation and Tech Spec Review + Acceptance
