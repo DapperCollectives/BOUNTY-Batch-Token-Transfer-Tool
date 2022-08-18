@@ -8,8 +8,8 @@
 |-------|------------|--------|----------------------|--------------------|--------------------|
 | One   | COMPLETE   | FlowJP | Mar 30               | Apr 22             | Apr 22             |
 | Two   | COMPLETE   | FlowJP | Apr 22               | Jun 06             | May 26             |
-| Three | Incomplete |        |                      |                    |                    |
-| Four  | Incomplete |        |                      |                    |                    |
+| Three | COMPLETE   | FlowJP | May 26               | Aug 4              | Aug 18             |
+| Four  | IN PROGRESS|        |                      |                    |                    |
 
 # Milestone Phases
 1. Product Requirements Documentation and Tech Spec Review + Acceptance
